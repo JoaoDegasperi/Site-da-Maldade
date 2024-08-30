@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.7.8">
+  <diagram name="Página-1" id="d_AmYGIK_Lpg7XeY8zqE">
+    <mxGraphModel dx="1393" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#212121;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry y="50" width="820" height="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-3" value="&lt;h1 style=&quot;line-height: 110%;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry width="820" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-4" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=-45;fillColor=#21004F;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-6" value="meu e mail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.vexels.com/media/users/3/130187/isolated/preview/5e8d2205ecc8cde3235581fc5ecfa430-icone-de-contorno-de-e-mail.png;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="237.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/149/149065.png;rotation=36;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-22" value="&lt;h1 style=&quot;font-size: 37px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 37px;&quot;&gt;O SEU&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 37px;&quot;&gt;DESENVOLVEDOR&amp;nbsp;&lt;/font&gt;WEB&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" width="490" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-23" value="Sou um desenvolvedor web iniciante, aprendendo HTML, CSS e JavaScript.&lt;div&gt;&amp;nbsp;Estou explorando como criar páginas e adicionar funcionalidades,&lt;/div&gt;&lt;div&gt;&amp;nbsp;dando meus primeiros passos nesse mundo da programação web.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3106/3106921.png;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-30" value="&lt;font color=&quot;#f9fff7&quot;&gt;&lt;strong&gt;Sobre Mim&lt;/strong&gt;: Breve introdução sobre quem você é,&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f9fff7&quot;&gt;&amp;nbsp;sua jornada e suas metas como desenvolvedor.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.faesa.br/hubfs/F5024-21C_50anos_branco_marca-1.png;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="319.39" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-32" value="&lt;li&gt;&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;strong&gt;Educação e Certificações&lt;/strong&gt;:&lt;/font&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Cursos, certificações e workshops que você concluiu.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Links para certificados, se aplicável.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="572.5" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/6543/6543958.png;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="730" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-36" value="&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;strong&gt;Habilidades Técnicas&lt;/strong&gt;:&lt;/font&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Linguagens de programação e tecnologias que você conhece.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Ferramentas e frameworks que você está aprendendo ou usando.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="810" width="430" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1080" width="65.5" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/256/174/174857.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1082.25" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/25/25231.png;" vertex="1" parent="1">
+          <mxGeometry x="314.5" y="1080" width="71" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKoR6YbsbC6vGDm90vy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rSKoR6YbsbC6vGDm90vy-2" target="rSKoR6YbsbC6vGDm90vy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
